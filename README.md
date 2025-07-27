@@ -26,4 +26,4 @@ This dashboard makes educational data **easy to understand, actionable, and pres
 
 ## link
 
-https://public.tableau.com/app/profile/riya.desai8455/viz/Education_Dashboard_17524278828830/Dashboard1# Student_Education_Dashboard
+https://public.tableau.com/app/profile/riya.desai8455/viz/Education_Dashboard_17524278828830/Dashboard1
